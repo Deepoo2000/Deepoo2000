@@ -1,6 +1,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ahmed-eldeeb-49b195207/)
 
-### Hey 👋🏽, I'm <span>Ahmed El-Deeb</span>
+### Hey 👋🏽, I'm <span style="color:skyblue; font-weight:bold;" >Ahmed El-Deeb</span>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=EngAhmedElDeeb&style=for-the-badge" alt="Profile Views" />
