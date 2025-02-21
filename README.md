@@ -6,9 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=EngAhmedElDeeb&style=for-the-badge" alt="Profile Views" />
 </p>
 
-- Hi, I'm Ahmed El-Deeb, a Full Stack Software Engineer (Java & React JS) 🚀 from Cairo, Egypt.  
-  Currently, I'm a Backend Engineer 🙍🏽‍♂️ [@BG](https://ebeshara.com/).  
-  Besides programming, I love Football and helping students.  
+- Hi, I'm Ahmed El-Deeb, a Full Stack Software Engineer (Java & React JS) 🚀 from Cairo, Egypt, Currently, I'm a Backend Engineer 🙍🏽‍♂️ [@BG](https://ebeshara.com/).  
 
 - I am a PS coach and mentor who helps students develop themselves.
 - I have solved over 1,200 problems on LeetCode and Codeforces.
