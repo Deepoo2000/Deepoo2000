@@ -6,16 +6,16 @@
   <img src="https://komarev.com/ghpvc/?username=EngAhmedElDeeb&style=for-the-badge" alt="Profile Views" />
 </p>
 
-Hi, I'm Ahmed El-Deeb, a Full Stack Software Engineer (Java & React JS) 🚀 from Cairo, Egypt.  
-Currently, I'm a Backend Engineer 🙍🏽‍♂️ [@BG](https://ebeshara.com/).  
-Besides programming, I love Football and helping students.  
+- Hi, I'm Ahmed El-Deeb, a Full Stack Software Engineer (Java & React JS) 🚀 from Cairo, Egypt.  
+  Currently, I'm a Backend Engineer 🙍🏽‍♂️ [@BG](https://ebeshara.com/).  
+  Besides programming, I love Football and helping students.  
 
 - I am a PS coach and mentor who helps students develop themselves.
 - I have solved over 1,200 problems on LeetCode and Codeforces.
   
 - ## My Profiles
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Deepoo)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Deepoo/)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Deepoo)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Deepoo/)
 
 - 📫 **How to reach me:** ahmedeldeeb3031@gmail.com  
 
